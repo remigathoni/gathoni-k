@@ -17,8 +17,8 @@
 
 
 ## About Me
-Hi there 👋. My name is Gathoni,a software developer from Kenya.
-🔭 I’m currently working as a technical writer.
+Hi there 👋. My name is Gathoni and I am software developer from Kenya.
+- 🔭 I’m currently working as a technical writer.
 - 🌱 I’m currently learning NextJS.
 - :stars: Planning on learning TypeScript.
 - 👯 I’m looking to collaborate on React projects.
@@ -45,26 +45,16 @@ Hi there 👋. My name is Gathoni,a software developer from Kenya.
 ## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gathoni-k&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/gathoni-k/github-readme-stats)
 
+## Blog Posts
+- [NestJS User Authentication with LoginRadius API](https://www.loginradius.com/blog/engineering/guest-post/nestjs-authentication-with-loginradius-api).
 
+- [Understanding Control Flow Statements in Kotlin (with Examples)](https://remigathoni.com/understanding-control-flow-statements-in-kotlin-with-examples).
+
+- [4 Ways You Can Connect Python to MySQL](https://www.makeuseof.com/python-mysql-connect/)
 ## Recently Played
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=e48iv0kkxoja0qdhvjkow9lnr)
+![Recent spotify playlist](https://spotify-recently-played-readme.vercel.app/api?user=e48iv0kkxoja0qdhvjkow9lnr)
 
 ## Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-<!--
-**gathoni-k/gathoni-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
