@@ -35,15 +35,33 @@ Hi there 👋. My name is Gathoni and I am software developer from Kenya.
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js&logoColor=404D59)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192)
 
 ## Tools
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E44C30)
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=Jest&logoColor=323330)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+## My Repositories
+<details><summary>Projects created with React</summary><br/>
 
-## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gathoni-k&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/gathoni-k/github-readme-stats)
+- [NextJS Blog - work in progress](https://github.com/gathoni-k/Nxt-Blog)
+
+</details>
+<details><summary>Projects created with HTML/CSS/JS</summary><br/>
+
+- [Save urls - chrome extension](https://github.com/gathoni-k/Nxt-Blog)
+
+</details>
+
+<details><summary>Full stack Projects</summary><br/>
+
+
+</details>
+<details><summary>Projects created from devChallenges.io</summary><br/>
+
+- [404 page](https://github.com/gathoni-k/404-Page)
+
+</details>
+
 
 ## Blog Posts
 - [NestJS User Authentication with LoginRadius API](https://www.loginradius.com/blog/engineering/guest-post/nestjs-authentication-with-loginradius-api).
