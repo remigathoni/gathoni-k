@@ -64,11 +64,9 @@ Hi there 👋. My name is Gathoni and I am software developer from Kenya.
 
 
 ## Blog Posts
-- [NestJS User Authentication with LoginRadius API](https://www.loginradius.com/blog/engineering/guest-post/nestjs-authentication-with-loginradius-api).
-
-- [Understanding Control Flow Statements in Kotlin (with Examples)](https://remigathoni.com/understanding-control-flow-statements-in-kotlin-with-examples).
-
 - [4 Ways You Can Connect Python to MySQL](https://www.makeuseof.com/python-mysql-connect/)
+- [The Design Principles for Scalable Web Apps](https://mattermost.com/blog/design-principles-for-scalable-web-apps/).
+- [NestJS User Authentication with LoginRadius API](https://www.loginradius.com/blog/engineering/guest-post/nestjs-authentication-with-loginradius-api).
 ## Recently Played
 
 ![Recent spotify playlist](https://spotify-recently-played-readme.vercel.app/api?user=e48iv0kkxoja0qdhvjkow9lnr)
